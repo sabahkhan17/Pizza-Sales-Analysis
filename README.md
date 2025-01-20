@@ -1,2 +1,2 @@
 # Pizza-Sales-Analysis
-Analysis Using SQL
+Exploring pizza sales data with SQL for actionable insights.
